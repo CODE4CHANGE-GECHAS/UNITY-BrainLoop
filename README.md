@@ -124,31 +124,4 @@ Only the following Student IDs can perform admin actions:
 | Chatbot        | ✅ Visible across all pages, fixed bottom-right |
 | Admin Panel    | ✅ Add/Edit/Delete courses |
 
----
-
-## 🧪 Test Payments with Stripe
-
-Use the following test card to simulate payments:
-
-```
-Card: 4242 4242 4242 4242
-Exp: Any future date
-CVV: 123
-```
-
----
-
-## 🧑‍💻 Contributors
-
-- A-Month-SP (Lead Developer)
-- Firebase Studio Copilot (AI-generated code assist)
-
----
-
-## 📜 License
-
-MIT License. Free for educational and non-commercial use.
-
----
-
 > "Unlock Your Learning Potential with BrainLoop" 🚀
