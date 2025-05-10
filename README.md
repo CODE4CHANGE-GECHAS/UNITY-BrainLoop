@@ -30,10 +30,6 @@
     - [Falstad](https://www.falstad.com/mathphysics.html)
     - [VisualGo](https://visualgo.net)
 
-- 💳 **Payments**
-  - Stripe (Test Mode) integration for course purchases
-  - Alternative Razorpay-like options considered
-
 - 🤖 **AI Chatbot**
   - Persistent chatbot available on all pages
   - Positioned on the bottom-right of the screen
